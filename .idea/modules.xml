@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ShotGame/CollisionGame.iml" filepath="$PROJECT_DIR$/ShotGame/CollisionGame.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android-collisiongame-master.iml" filepath="$PROJECT_DIR$/android-collisiongame-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShotGame/ShotGame.iml" filepath="$PROJECT_DIR$/ShotGame/ShotGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-app-ShotGame.iml" filepath="$PROJECT_DIR$/android-app-ShotGame.iml" />
     </modules>
   </component>
 </project>

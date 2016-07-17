@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\android-app-ShotGame\\ShotGame\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\android-app-ShotGame\\ShotGame\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
         "merged": "C:\\Users\\Cesar\\Documents\\android-collisiongame-master\\ShotGame\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
         "source": "C:\\Users\\Cesar\\Documents\\android-collisiongame-master\\ShotGame\\src\\main\\res\\drawable-ldpi\\icon.png"
     }

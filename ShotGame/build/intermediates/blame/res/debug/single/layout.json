@@ -4,6 +4,14 @@
         "source": "C:\\Users\\Cesar\\Documents\\android-collisiongame-master\\ShotGame\\src\\main\\res\\layout\\main.xml"
     },
     {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\android-app-ShotGame\\ShotGame\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\android-app-ShotGame\\ShotGame\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cesar\\Documents\\Github\\android-app-ShotGame\\ShotGame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Cesar\\Documents\\Github\\android-app-ShotGame\\ShotGame\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
         "merged": "C:\\Users\\Cesar\\Documents\\android-collisiongame-master\\ShotGame\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "C:\\Users\\Cesar\\Documents\\android-collisiongame-master\\ShotGame\\src\\main\\res\\layout\\activity_main.xml"
     }

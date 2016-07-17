@@ -38,7 +38,6 @@ import android.graphics.Color;
 import android.graphics.Point;
 import android.graphics.Typeface;
 import android.os.Handler;
-import android.util.Log;
 import android.view.Display;
 import android.view.KeyEvent;
 import android.widget.Toast;
