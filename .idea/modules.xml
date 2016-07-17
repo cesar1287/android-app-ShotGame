@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ShotGame/CollisionGame.iml" filepath="$PROJECT_DIR$/ShotGame/CollisionGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-collisiongame-master.iml" filepath="$PROJECT_DIR$/android-collisiongame-master.iml" />
+    </modules>
+  </component>
+</project>
